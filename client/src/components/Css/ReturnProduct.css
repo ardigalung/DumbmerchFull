@@ -1,0 +1,39 @@
+.navbar-return {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 97vh;
+}
+
+.back-card {
+    width: 50%;
+    height: 50vh;
+}
+
+.bukti {
+    background-color: green;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.navbar-return img {
+    width: 40px;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.navbar-return .desp {
+    margin-top: 1rem;
+}
+
+.navbar-return textarea {
+    width: 100%;
+}
+
+.navbar-return .btn2 {
+    background-color: red;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 5px;
+}
